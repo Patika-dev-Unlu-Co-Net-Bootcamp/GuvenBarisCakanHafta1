@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BJgZYUjP9sIlhe7vJx23u/RWxgsxoTuMgUNSaurEph1rNelD2ZsyHfRu9TXag8Am//t5W7DG4mia0nWQRelOAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Barış\\Desktop\\Ünlü&Co Patika\\UnluCo.ECommerce\\UnluCo.ECommerce\\UnluCo.ECommerce\\UnluCo.ECommerce.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Barış\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Barış\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Barış\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Barış\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Barış\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Barış\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
