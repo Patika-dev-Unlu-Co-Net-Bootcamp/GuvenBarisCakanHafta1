@@ -1,7 +1,8 @@
 # GuvenBarisCakanHafta1
 
-1. Hafta Ödev
-Restful Api Geliştirin
+**1. Hafta Ödev**
+
+**Restful Api Geliştirin**
 
 * Rest standartlarna uygun olmalıdır.
 * GET,POST,PUT,DELETE,PATCH methodları kullanılmalıdır.
